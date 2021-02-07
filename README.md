@@ -26,8 +26,8 @@ Siga os passos abaixo!
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/vinizeus/zeusbr.git
-> cd zeusbr
+> git clone https://github.com/vinizeus/zzeus.git
+> cd zzeus
 > bash install.sh
 ```
 
