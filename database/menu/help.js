@@ -3,7 +3,7 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ╔══✪〘 Informações 〙✪══
 ║
 ║───────⊹⊱✫⊰⊹───────
-║➩ ❍ wa.me/556993899391
+║➩ ❍ wa.me/5516997161005
 ║➩ ❍ Prefix: 「  ${prefix}  」
 ║➩ ❍ Criador: ${botName}
 ║➩ ❍ Nome: ${pushname}️
@@ -91,6 +91,13 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
   ║➩ ❍ ${prefix}tmctt
   ║➩ ❍ ${prefix}clone
   ║➩ ❍ ${prefix}clearall
+❍𝙳𝙸𝚅𝙴𝚁𝚂𝙾̃𝙴𝚂
+
+  ║➩ ❍ ${prefix}lgbt
+  ║➩ ❍ ${prefix}gay
+  ║➩ ❍ ${prefix}gay2
+  ║➩ ❍ ${prefix}gado
+  ║➩ ❍ ${prefix}buc
 ❍ 𝙾𝚄𝚃𝚁𝙾𝚂
  
   ║➩ ❍ ${prefix}send
@@ -102,42 +109,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
   ║➩ ❍ ${prefix}timer
   ║➩ ❍ ${prefix}fml
   ║➩ ❍ ${prefix}fml2
-  ❍𝙼𝙴𝙽𝚄 𝙰𝙳𝙼𝙸𝙽
-  
- ║➩ ❍ ${prefix}abrirgp
- ║➩ ❍ ${prefix}fechargp
- ║➩ ❍ ${prefix}setname
- ║➩ ❍ ${prefix}setdesc
- ║➩ ❍ ${prefix}promover
- ║➩ ❍ ${prefix}rebaixar
- ║➩ ❍ ${prefix}marcar
- ║➩ ❍ ${prefix}marcar2
- ║➩ ❍ ${prefix}marcar3
- ║➩ ❍ ${prefix}marcar4
- ║➩ ❍ ${prefix}marcar5
- ║➩ ❍ ${prefix}add
- ║➩ ❍ ${prefix}remover
- ║➩ ❍ ${prefix}listadmins
- ║➩ ❍ ${prefix}linkgp
- ║➩ ❍ ${prefix}sairgp
- ║➩ ❍ ${prefix}bv
- ║➩ ❍ ${prefix}nsfw
- ║➩ ❍ ${prefix}leveling
- ║➩ ❍ ${prefix}level
- ║➩ ❍ ${prefix}apagar
- ║➩ ❍ ${prefix}simih
-❍ 𝙼𝙴𝙽𝚄 𝙽𝚂𝙵𝚆
- 
-  ║➩ ❍ ${prefix}nsfwbobs
-  ║➩ ❍ ${prefix}randomhentai
-  ║➩ ❍ ${prefix}nsfwtrap
-  ║➩ ❍ ${prefix}nsfwass
-  ║➩ ❍ ${prefix}nsfwbelly
-  ║➩ ❍ ${prefix}nsfwsidebobs
-  ║➩ ❍ ${prefix}nsfwahegao
-  ║➩ ❍ ${prefix}nsfwthighs
-  ║➩ ❍ ${prefix}nsfwarmpits
-  ║➩ ❍ ${prefix}nsfwfeets
 `
 }
 exports.help = help

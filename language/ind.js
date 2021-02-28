@@ -1,5 +1,5 @@
 exports.noregis = () => {
-        return `*「 REGISTRE-SE 」*\n\n*cara registrar ${prefix}registrar nome|idade* \n*Contoh: ${prefix}registrar Zeus|18*`
+        return `*「 REGISTRE-SE 」*\n\n*cara registrar ${prefix}registrar nome|idade* \n*Contoh: ${prefix}registrar Say|18*`
 }
 
 exports.rediregis = () => {

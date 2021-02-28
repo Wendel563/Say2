@@ -3,7 +3,7 @@ const limit = (pushname, prefix, botName, ownerName) => {
 ╔══✪〘 Informações 〙✪══
 ║
 ║───────⊹⊱✫⊰⊹───────
-║➩ ❍ wa.me/556993899391
+║➩ ❍ wa.me/5516997161005
 ║➩ ❍ Prefix: 「  ${prefix}  」
 ║➩ ❍ Criador: ${botName}
 ║➩ ❍ Nome: ${pushname}️
@@ -12,7 +12,7 @@ const limit = (pushname, prefix, botName, ownerName) => {
 ───────⊹⊱✫⊰⊹───────
 
 
-                     𝚉𝙴𝚄𝚂 
+                 SAY
 
 ───────⊹⊱✫⊰⊹───────
 ║➩ ❍ *${prefix}info*
