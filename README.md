@@ -26,8 +26,8 @@ Siga os passos abaixo!
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/Wendel563/Saybot2.git
-> cd Saybot2
+> git clone https://github.com/Wendel563/Say2.git
+> cd Say
 > bash install.sh
 ```
 
@@ -36,7 +36,7 @@ Siga os passos abaixo!
 ```bash
 > npm start
 > leia o códico QR e após isso de um exit
-> cd Saybot2
+> cd Say
 > npm i -g pm2
 > pm2 start index.js
 > pm2 monit
